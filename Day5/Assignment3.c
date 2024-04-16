@@ -1,4 +1,4 @@
-// question 3:Print Sum of Even and  sum of odd values between 1 to 50.
+//Print Sum of Even and  sum of odd values between 1 to 50.
 #include <stdio.h>
 
 int main()
