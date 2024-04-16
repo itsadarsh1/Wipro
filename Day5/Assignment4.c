@@ -1,4 +1,4 @@
-//Question 4: Find out the sum of series   3+33+333+3333+33333+333333
+//Find out the sum of series   3+33+333+3333+33333+333333
 #include <stdio.h>
 
 int main() 
