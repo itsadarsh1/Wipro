@@ -1,10 +1,10 @@
-/Input: 5
-Output:
-         A
-        ABA
-       ABCBA
-      ABCDCBA
-    ABCDEDCBA/
+//Input: 5
+//Output:
+//         A
+//        ABA
+//       ABCBA
+//      ABCDCBA
+//    ABCDEDCBA/
 
 #include <stdio.h>
 
