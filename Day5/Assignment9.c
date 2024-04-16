@@ -4,7 +4,7 @@
 //        ABA
 //       ABCBA
 //      ABCDCBA
-//    ABCDEDCBA/
+//     ABCDEDCBA
 
 #include <stdio.h>
 
